@@ -1,0 +1,2 @@
+# KNN-ALGORITHM
+In pattern recognition, the k-nearest neighbors algorithm (k-NN) is a non-parametric method proposed by Thomas Cover used for classification and regression. In both cases, the input consists of the k closest training examples in the feature space(https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm).  This is a code example of KNN(k-nearest neighbors)  on MATLAB. An example datasets are given and trained. 
